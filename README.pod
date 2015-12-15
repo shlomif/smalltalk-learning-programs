@@ -1,0 +1,12 @@
+=encoding utf8
+
+=head1 Smalltalk Programs by Shlomi Fish
+
+These are Smalltalk programs that Shlomi Fish wrote when trying to learn
+Smalltalk. I believe that they were written for GNU Smalltalk.
+
+=head1 COPYRIGHT
+
+Copyright by Shlomi Fish.
+
+=cut
